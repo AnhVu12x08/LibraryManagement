@@ -1,7 +1,6 @@
 https://anonyviet.com/cach-chuyen-file-python-thanh-exe/
 1 vào cmd gõ auto-py-to-exe
-2 đóng gói file và thêm file json vào thư mục vừa tạo bởi auto-py-to-exe	
-3 tải như video https://www.youtube.com/watch?v=CL5nTQDseqQ&t=34s
+2 đóng gói file và thêm file json vào thư mục vừa tạo bởi auto-py-to-exe
 https://mytour.vn/vi/blog/bai-viet/tao-file-thuc-thi-exe-cai-dat-bang-winrar.html
 https://www.tiktok.com/@juno_okyo/video/7294678971671792902?q=j2team%20t%E1%BA%A1o%20file%20exe%20b%E1%BA%B1ng%20winrar&t=1718251326645
 
