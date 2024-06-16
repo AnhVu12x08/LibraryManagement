@@ -1,4 +1,3 @@
-```markdown
 # QUY ĐỊNH THỰC HIỆN ĐỒ ÁN
 ## MÔN LẬP TRÌNH PYTHON
 
@@ -49,4 +48,3 @@ Sinh viên sẽ phát triển một ứng dụng hoàn chỉnh sử dụng ngôn
 - Sinh viên cần lập trình theo hướng đối tượng.
 - Sinh viên cần bổ sung hướng dẫn sử dụng và hướng dẫn cài đặt để người dùng có thể sử dụng ứng dụng một cách dễ dàng.
 - Sinh viên cần thực hiện kiểm thử và debug kỹ lưỡng để đảm bảo ứng dụng hoạt động một cách ổn định và mượt mà.
-```
